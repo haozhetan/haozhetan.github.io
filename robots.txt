@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Gabr1e4.github.io/sitemap.xml
