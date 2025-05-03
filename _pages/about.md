@@ -27,6 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
+Hello world! My name is Haozhe Tan (谭好哲). I'm currently a PhD student at ISEM, National University of Singapore. I will update my newest info as soon as possible. Hope I can do more interesting research about Mixed Integer Programming (MIP) in the near future.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
