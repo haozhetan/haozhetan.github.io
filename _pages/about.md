@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a second-year PhD student, starting in Fall 2023, at the [National University of Singapore](https://nus.edu.sg) (NUS) under the guidance of [Prof. Guanyi Wang](https://sites.google.com/view/guanyiwang). My main research interests are in the broad field of optimization. In particular, I am interested in the theory and computation in discrete and integer related optimization problems. Previously, I earned my Bachelor's degree in Applied Mathematcis from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn) (CUHK-Shenzhen).
+Welcome! I am a second-year PhD student, starting in Fall 2023, at the [National University of Singapore](https://nus.edu.sg) (NUS) under the guidance of [Prof. Guanyi Wang](https://sites.google.com/view/guanyiwang). My main research interests are in the broader field of optimization. In particular, I am interested in the theory and computation of discrete and integer related optimization problems. Previously, I earned my Bachelor's degree in Applied Mathematcis from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn) (CUHK-Shenzhen).
 
 If you have any questions, or curiosities about my research, please feel free to contact me!
 
