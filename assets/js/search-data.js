@@ -55,10 +55,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-will-be-joining-informs-international-meeting-singapore-july-20-23-2025-and-present-our-newest-work-see-you-then",
+            },},{id: "news-i-will-be-joining-informs-international-meeting-singapore-july-20-23-2025-and-present-our-newest-work-see-you-then",
           title: 'I will be joining INFORMS International Meeting, Singapore (July 20-23, 2025) and present...',
           description: "",
           section: "News",},{
