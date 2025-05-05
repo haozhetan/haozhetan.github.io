@@ -22,70 +22,37 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
   "education": [
     {
       "institution": "National University of Singapore (NUS)",
       "location": "Singapore",
       "url": "https://www.nus.edu.sg",
-      "area": "Optimization",
+      "area": "Optimization (specialized in Mixed Integer Programming)",
       "studyType": "PhD",
       "startDate": "2023-08-01",
       "endDate": "2027-07-01",
       "score": "",
-      "courses": ["Theory of Relativity"]
+      "courses": ""
     },
     {
       "institution": "Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)",
       "location": "Shenzhen, China",
       "url": "https://www.cuhk.edu.cn/",
-      "area": "Applied Mathematics",
+      "area": "Major in Applied Mathematics",
       "studyType": "Bachelor of Science",
       "startDate": "2019-09-01",
       "endDate": "2023-06-01",
       "score": "",
-      "courses": ["Theory of Relativity"]
+      "courses": ""
     }
   ],
   "publications": [
     {
       "name": "Screening Cut Generation for Sparse Ridge Regression",
-      "publisher": "arXiv",
+      "publisher": "arXiv (Pre-print)",
       "releaseDate": "2025-05-05",
       "url": "https://arxiv.org/abs/2505.01082",
-      "summary": "This paper proposes a novel screening cut generation method with theoretical results for solving sparse ridge regression."
+      "summary": "TL;DR: This paper proposes a novel screening cut generation method with theoretical results for solving sparse ridge regression."
     }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "workInProgress": [
-    {
-      "title": "Open Source Project",
-      "description": "Building a CLI tool for data analysis.",
-      "started": "2025-03",
-      "technologies": ["Python", "Click", "Pandas"]
-    }
-  ]
+  
 }
