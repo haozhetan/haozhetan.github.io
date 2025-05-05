@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   <p style="font-size : 10px;">fistName.lastName at u.nus.edu</p>
+   <p style="font-size : 11px;">fistName.lastName at u.nus.edu</p>
    <p style="font-size : 10px;">Singapore, 117575</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
