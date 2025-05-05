@@ -206,6 +206,8 @@ exclude:
   - _includes/repository/
   # ===== remove people page =====
   - _pages/profiles.md
+  # ===== remove publication page =====
+  - _pages/publications.md
   # ===== remove drop-down page =====
   - _pages/dropdown.md
 keep_files:
