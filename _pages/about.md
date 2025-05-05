@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size : 10px;">fistName.lastName at u.nus.edu</p>
-    <p style="font-size : 10px;">National University of Singapore</p>
-    <p style="font-size : 10px;">Singapore, 117575</p>
+   <p style="font-size : 10px;">fistName.lastName at u.nus.edu</p>
+   <p style="font-size : 10px;">National University of Singapore</p>
+   <p style="font-size : 10px;">Singapore, 117575</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,6 +28,8 @@ latest_posts:
 ---
 
 Welcome! I am a second-year PhD student, starting in Fall 2023, at the [National University of Singapore](https://nus.edu.sg) (NUS) under the guidance of [Prof. Guanyi Wang](https://sites.google.com/view/guanyiwang). My main research interests are in the broad field of optimization. In particular, I am interested in the theory and computation in discrete and integer related optimization problems. Previously, I earned my Bachelor's degree in Applied Mathematcis from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn) (CUHK-Shenzhen).
+
+If you have any questions, or curiosities about my research, please feel free to contact me!
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
