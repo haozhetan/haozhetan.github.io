@@ -206,6 +206,8 @@ exclude:
   - _includes/repository/
   # ===== remove people page =====
   - _pages/profiles.md
+  # ===== remove drop-down page =====
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
