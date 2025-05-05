@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size : 5px;">fistName.lastName at u.nus.edu</p>
-    <p>National University of Singapore</p>
-    <p>Singapore, 117575</p>
+    <p style="font-size : 20px;">fistName.lastName at u.nus.edu</p>
+    <p style="font-size : 20px;">National University of Singapore</p>
+    <p style="font-size : 20px;">Singapore, 117575</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
