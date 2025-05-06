@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I will be joining INFORMS International Meeting, Singapore (July 20-23, 2025) and present our newest work. See you then!
+I will be joining INFORMS International Meeting, Singapore (July 20-23, 2025). See you then!
+
