@@ -55,8 +55,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-will-be-joining-informs-international-meeting-singapore-july-20-23-2025-and-present-our-newest-work-see-you-then",
-          title: 'I will be joining INFORMS International Meeting, Singapore (July 20-23, 2025) and present...',
+            },},{id: "news-i-will-be-joining-informs-international-meeting-singapore-july-20-23-2025-see-you-then",
+          title: 'I will be joining INFORMS International Meeting, Singapore (July 20-23, 2025). See you...',
           description: "",
           section: "News",},{
         id: 'social-email',
