@@ -7,6 +7,6 @@ nav: true
 nav_order: 8
 ---
 
-## Sports
+<!-- ## Sports -->
 
-I'm a huge sports fan!
+<!-- I'm a huge sports fan! -->
