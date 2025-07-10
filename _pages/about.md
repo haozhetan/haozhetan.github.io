@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: place-holder.png
   image_circular: false # crops the image to make it circular
   more_info: >
    <p style="font-size : 12px;">fistName.lastName at u.nus.edu</p>
